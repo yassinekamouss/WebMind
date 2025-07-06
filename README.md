@@ -2,23 +2,14 @@
 
 <div align="center">
 
-![WebMind Demo](Capture%_d'écran.png)
-
-\*\*Une application de chatbot révolL'application sera disponible à l'adresse : `http://localhost:8501`
-
----
-
-## Utilisation
-
-### Interface Utilisateurire**WebMind - Réalisé avec passion par YASSINE KAMOUSSI**
-
-*Révolutionnons ensemble l'accès à l'information !*mbinant l'intelligence artificielle locale avec l'accès web en temps réel\*\*
-
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red?style=for-the-badge&logo=streamlit)](https://streamlit.io)
 [![Ollama](https://img.shields.io/badge/Ollama-Latest-green?style=for-the-badge)](https://ollama.com)
 
-**Réalisé par : YASSINE KAMOUSSI**
+
+---
+
+![WebMind Demo](Capture_d'écran.png)
 
 </div>
 
@@ -158,7 +149,7 @@ L'application sera disponible à l'adresse : `http://localhost:8501`
 
 ---
 
-## � Utilisation
+## Utilisation
 
 ### Interface Utilisateur
 
