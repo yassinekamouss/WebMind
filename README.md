@@ -128,7 +128,7 @@ ollama pull gemma2
 
 ```bash
 # Clonez le projet
-git clone https://github.com/votre-username/webmind.git
+git clone https://github.com/yassinekamouss/WebMind.git
 cd webmind
 
 # Créez un environnement virtuel
