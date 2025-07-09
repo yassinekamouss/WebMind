@@ -21,6 +21,7 @@
 - [Fonctionnalités](#fonctionnalités)
 - [Architecture](#architecture)
 - [Installation](#installation)
+- [Déploiement](#déploiement)
 - [Utilisation](#utilisation)
 - [Configuration](#configuration)
 - [Performance](#performance)
@@ -146,6 +147,20 @@ streamlit run main.py
 ```
 
 L'application sera disponible à l'adresse : `http://localhost:8501`
+
+---
+
+## Déploiement
+
+### Application en Ligne
+
+**WebMind** est déployé et accessible en ligne via Streamlit Cloud :
+
+🌐 **[Accéder à WebMind](https://webmind.streamlit.app/)**
+
+L'application hébergée offre les mêmes fonctionnalités que l'installation locale, avec l'avantage d'être directement accessible depuis votre navigateur sans installation préalable.
+
+> **Note** : L'application en ligne utilise les ressources partagées de Streamlit Cloud. Pour des performances optimales et une confidentialité maximale, nous recommandons l'installation locale.
 
 ---
 
